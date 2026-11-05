@@ -23,7 +23,7 @@
     { id: "interfaces", type: "theme", label: "Interface design",
       body: "<p>The design choices on screen that shape how much people lean on an AI: explanations, confidence cues, and when to ask for a second look.</p>" },
 
-    { id: "paper", type: "research", label: "LLM-SC for sacred heritage", sub: "In preparation",
+    { id: "paper", type: "research", label: "LLM-SC for sacred heritage", sub: "Pre-Print",
       title: "Adapting LLM-SC for Living Sacred Heritage",
       meta: '<a href="https://arxiv.org/abs/2610.35685" target="_blank" rel="noopener">arXiv:2610.35685</a>',
       body: "<p><em>Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews.</em></p><p>Extends the LLM–social computing framework from museums to a living sacred site. A GPT-4o pipeline reads 3,939 TripAdvisor reviews of Pashupatinath Temple written between 2008 and 2026, extracts entities and aspect-level sentiment, and maps them as a semantic network.</p>" },
