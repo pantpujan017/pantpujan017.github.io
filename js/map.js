@@ -25,7 +25,7 @@
 
     { id: "paper", type: "research", label: "LLM-SC for sacred heritage", sub: "In preparation",
       title: "Adapting LLM-SC for Living Sacred Heritage",
-      meta: "https://arxiv.org/abs/2610.35685",
+      meta: '<a href="https://arxiv.org/abs/2610.35685" target="_blank" rel="noopener">arXiv:2610.35685</a>',
       body: "<p><em>Adapting LLM-SC to Living Sacred Heritage: Domain-Specific Extraction, Semantic Networks and Human Evaluation on Pashupatinath Temple Reviews.</em></p><p>Extends the LLM–social computing framework from museums to a living sacred site. A GPT-4o pipeline reads 3,939 TripAdvisor reviews of Pashupatinath Temple written between 2008 and 2026, extracts entities and aspect-level sentiment, and maps them as a semantic network.</p>" },
     { id: "llms", type: "theme", label: "LLMs",
       body: "<p>Large language models: the engine of my sacred-heritage paper and of the agents in the credit-scoring project.</p>" },
