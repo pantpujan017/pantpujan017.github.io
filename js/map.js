@@ -336,7 +336,7 @@
       h += '<h2 class="p-title">Pujan Pant</h2>';
       h += '<p class="p-meta">CS Graduate, Human–AI Interaction Researcher</p>';
       h += '<div class="p-body"><p>I study how people come to trust AI, and how interfaces can help them rely on it exactly as much as it deserves. I graduated in Computer Science with First Class Honours in 2025.</p></div>';
-      h += '<p class="p-links"><a href="mailto:pantpujan017@gmail.com">Email</a><a href="https://www.linkedin.com/in/pujan-pant/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/pantpujan017" target="_blank" rel="noopener">GitHub</a><a href="assets/Pujan-Pant-CV.pdf" target="_blank" rel="noopener">CV</a></p>';
+      h += '<p class="p-links"><a href="mailto:pantpujan017@gmail.com">Email</a><a href="https://www.linkedin.com/in/pujan-pant/" target="_blank" rel="noopener">LinkedIn</a><a href="https://github.com/pantpujan017" target="_blank" rel="noopener">GitHub</a><a href="https://scholar.google.com/citations?user=BZLxGOgAAAAJ&hl=en" target="_blank" rel="noopener">Scholar</a><a href="assets/Pujan-Pant-CV.pdf" target="_blank" rel="noopener">CV</a></p>';
       h += '<div class="p-section"><h3>Explore</h3><ul class="p-groups">';
       SHAPES.forEach(function (s) {
         if (s[0] === "theme") return;
